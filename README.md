@@ -37,4 +37,29 @@ de esta manera el frecuentemente tedioso trabajo de tener que crear un curriculu
 ------
 
 ## Tecnologias
- 
+
+### Front End
+ | Tipo | Dependencia | Version  | Uso |
+| ------------- |:-------------:| -----|------- |
+| Framework |Expo CLI| -----|libreria para react native que simplifica la manera en la que usamos react native|
+| Estados globales |Redux Toolkit | -----|Manejo de estados y acciones globales dentro de la app |
+| Validaciones |Yup| -----| Validar los campos de los formularios |
+| Formularios |Formik | -----|Crear formularios de manera mas secilla y funcional |
+| API Connect |Axios| -----|Permite la conexion con la API y el envio de peticiones a la misma|
+| ------------- |:-------------:| -----|------- |
+| ------------- |:-------------:| -----|------- |
+
+### Back End
+ | Tipo | Dependencia | Version  | Uso |
+| ------------- |:-------------:| -----|------- |
+| ------------- |:-------------:| -----|------- |
+
+### Testing QA
+ | Tipo | Dependencia | Version  | Uso |
+| ------------- |:-------------:| -----|------- |
+| ------------- |:-------------:| -----|------- |
+
+ ### Design UX
+ | Tipo | Dependencia | Version  | Uso |
+| ------------- |:-------------:| -----|------- |
+| ------------- |:-------------:| -----|------- |
